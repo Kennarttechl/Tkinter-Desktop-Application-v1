@@ -1,0 +1,37 @@
+{
+    "theme": "#cc0a0a",
+    "theme2": "green",
+    "theme3": "#0081B4",
+    "theme4":  "#EF5B0C",
+    "default_font": "Arial 12",
+
+    "admin_color": "#16FF00",
+    "admin_color2": "#2C3333", 
+    "admin_color3": "gray20",
+
+    "file_menu_color": "#2E3840",
+    "menu_background_color": "gray20",
+    "menu_foreground_color": "white",
+    
+    "Record": "New Records",
+    "DS_Enterprise": "Welcome to DS Enterprise",
+    "footer": "Develop by [Kennart-Tech]",
+    "master": "Welcome to Admin Dashboard[  ]",
+
+    "message_text_color": "white",
+    "usermessage": "Are you sure you want to\n''close this window",
+
+    "Item_prices": [
+        "30",
+        "35",
+        "40",
+        "45",
+        "55",
+        "65"
+    ],
+
+    "more":{
+        "name": "kenneth"
+    }
+    
+}

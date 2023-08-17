@@ -1,0 +1,18 @@
+{
+    "app_description":{
+        "appname":"Desktop Application\n\nVersion: 1.0\n\nAuthor: Kennart-Tech Software\n\nDescription: POS\n\nLicense: @KTS"
+    },
+
+
+    "statusbar":{
+        "KT":"Develop by [Kennart-Tech]"
+    },
+
+    
+    "entry_search": "Enter data ID",
+
+
+    "$schema":{
+        "kenneart@gmail.com": "mm"
+    }
+}

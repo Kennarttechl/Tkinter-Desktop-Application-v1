@@ -1,0 +1,15 @@
+pip install Pillow
+pip install cx-Freeze
+pip install tkhtmlview
+pip install customtkinter
+pip install tkinter-tooltip
+
+# pip show customtkinter this shows the customtkinter path
+pip install waitress
+pip show customtkinter
+pip install flaskwebgui
+pip install tkvideoplayer
+
+pip install --upgrade jwt
+pip install CTkMessagebox
+pip install --upgrade tkhtmlview
